@@ -1,2 +1,2 @@
 # Serotonin-3D
-The model is created using blender and freecad
+A 3D model of Serotonin is created using blender and freecad.
